@@ -1,2 +1,2 @@
 # MotorControl_RNN
-RNN-based motor tracking target control framework
+- RNN-based motor tracking target control framework
